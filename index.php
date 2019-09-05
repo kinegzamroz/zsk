@@ -1,2 +1,3 @@
-ZSK
-haaaaaaaaaalo
+<?php
+echo 'tesciorek' ;
+?>
